@@ -1,11 +1,25 @@
-### Olá Eu sou o Thiago 👋
+# Olá Eu sou o Thiago 👋
 
-- 🔭 Hoje eu trabalho como backend, focado em desenvolvimento RPA.
-- 🌱 Estudando Typescrip, NodeJS, Javascript.
-- 💬 Contate-me no e-mail: tcr.thiago@gmail.com
-- 😄 Pronouns: ele/dele
+🔭 Hoje eu atuo como backend, focado em desenvolvimento RPA:
+* Desenvolvendo em Typescrip, NodeJS, Javascript.
+* Integração: API criadas em Nodes.js, em projetos PHP.
+* Node.js, realizando requests com Axios, e gerenciamento de rotas com Express.
 
+ 🌱 Estudando: 
+ 
+- Curso FulCycle: 
+- Curso Rocktseat:
 
+🔥 Skills: 
+
+* Docker,Microserviços em NodeJs,Websocktes,
+* NodeJs, TDD, Serverless, Docker e JWT, RabbitMQ.
+* Python com frameworks web (Django e Flask).
+* Mysql, Postgres, MongoDB, Redis. 
+* Infraestrutura: AWS, Azure, Hostgator,EC2, Serverless, S3, RDS.
+* Api Rest, Swagger.
+* Arquitetura de software.  
+ 
 <div align="center">
   <a href="https://github.com/thiagocarvalhorodrigues">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagocarvalhorodrigues&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

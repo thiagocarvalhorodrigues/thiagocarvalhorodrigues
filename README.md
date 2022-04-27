@@ -1,6 +1,6 @@
 ### Olá Eu sou o Thiago 👋
 
-- 🔭 Hoje eu trabalho com backend.
+- 🔭 Hoje eu trabalho com backend, focado em desenvolvimento RPA.
 - 🌱 Estudando Typescrip, NodeJS,Javascript.
 - 💬 Contate-me no e-mail: tcr.thiago@gmail.com
 - 😄 Pronouns: ele/dele

@@ -1,7 +1,7 @@
 # Olá Eu sou o Thiago 👋
 
 🔭 Hoje eu atuo como backend, focado em desenvolvimento RPA:
-* Desenvolvendo em Typescrip, NodeJS, Javascript.
+* Desenvolvendo em Typescript, NodeJS, Javascript.
 * Integração: API criadas em Nodes.js, em projetos PHP.
 * Node.js, realizando requests com Axios, e gerenciamento de rotas com Express.
 

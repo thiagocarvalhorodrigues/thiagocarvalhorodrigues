@@ -13,7 +13,7 @@
 🔥 Skills: 
 
 * Docker, Microserviços em NodeJs,Websocktes,
-* NodeJs, TDD, Serverless, Docker e JWT, RabbitMQ.
+* NodeJs, NestJs,TDD, Serverless, Docker e JWT, RabbitMQ.
 * Python com frameworks web (Django e Flask).
 * Mysql, Postgres, MongoDB, Redis. 
 * Infraestrutura: AWS, Azure, Hostgator,EC2, Serverless, S3, RDS.
